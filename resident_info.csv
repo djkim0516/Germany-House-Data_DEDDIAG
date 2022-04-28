@@ -1,0 +1,30 @@
+house,absence_duration,age,regularity_of_absence
+0,half-day,50-65,limited regular
+0,half-day,50-65,regular
+0,whole day,12-18,limited regular
+0,whole day,12-18,limited regular
+1,whole day,18-30,regular
+1,half-day,18-30,regular
+1,whole day,18-30,limited regular
+3,more than half-day,30-50,regular
+3,half-day,30-50,regular
+4,rarely,50-65,irregular
+4,rarely,>65,irregular
+4,whole day,18-30,limited regular
+5,whole day,18-30,regular
+5,more than half-day,30-50,irregular
+6,whole day,30-50,regular
+6,less than half-day,30-50,limited regular
+6,rarely,<=5,limited regular
+6,rarely,<=5,limited regular
+8,whole day,30-50,regular
+8,whole day,30-50,regular
+9,less than half-day,18-30,limited regular
+9,whole day,18-30,regular
+10,whole day,18-30,regular
+10,whole day,18-30,regular
+12,more than half-day,<=5,regular
+12,rarely,18-30,irregular
+12,whole day,18-30,regular
+13,whole day,18-30,regular
+13,rarely,<=5,regular
